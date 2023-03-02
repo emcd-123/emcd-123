@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emcd-123
-- 👀 I’m interested in ... Natural Language Processing and Computational Linguistics
+- 👀 I’m interested in ... Language Learning Software, Natural Language Processing, and Computational Linguistics
 - 🌱 I’m currently learning ... Computer Networking and Information Security @ OMSCS
 - 💞️ I’m looking to collaborate on ... Interesting Projects
 - 📫 How to reach me ... emcd.unl@gmail.com
